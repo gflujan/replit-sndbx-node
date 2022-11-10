@@ -12,7 +12,7 @@
   "dependencies": {
     "@replit/database": "^2.0.0",
     "dayjs": "^1.11.1",
-    "electron": "^18.1.0",
+    "electron": "^18.3.7",
     "lodash": "^4.17.21",
     "luxon": "^2.3.2",
     "ws": "^8.5.0"
